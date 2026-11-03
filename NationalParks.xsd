@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           targetNamespace="http://www.example.org/NationalParks"
-           xmlns="http://www.example.org/NationalParks"
+           xmlns="https://NicatMammadli1.github.io/cse445-assignment4"
+           targetNamespace="https://NicatMammadli1.github.io/cse445-assignment4"
            elementFormDefault="qualified">
+
 
   <xs:element name="NationalParks">
     <xs:complexType>

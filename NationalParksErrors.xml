@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalPark>
-
+<NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+    
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
@@ -39,7 +40,7 @@
 
   <NationalPark>
     <Name>Zion</Name>
-    <Name>Extra Zion Name</Name>
+    <Name>Zion National Park</Name>
     <Phone>435-772-3256</Phone>
     <Address NearestAirport="St George">
       <Number>1</Number>
